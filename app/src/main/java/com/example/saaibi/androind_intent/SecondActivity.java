@@ -45,7 +45,6 @@ public class SecondActivity extends AppCompatActivity {
 
                 }
             }
-
             @Override
             public void onNothingSelected(AdapterView<?> adapterView) {
 
